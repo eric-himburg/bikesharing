@@ -5,7 +5,7 @@ Data aquired from Citi Bike New York was analysed for use as a model in the crea
 [link to NY Citi Bike August 2019 Analysis dashboard](https://public.tableau.com/app/profile/eric.himburg/viz/NYCitiBikeAnalysis_16490108119270/NYCitiBikeAnalysis)
 
 ## How Citi Bike Works in New York
-Citi Bike bikes can be found at hundreds of stations around Manhattan, Brooklyn, Queens, the Bronx, and Jersey City. Using the Citi Bike app, available bikes and their station locations can be found.  In order to use the bike, a rider must have a day pass or an annual membership. A code is used to unlock the bike and start the ride and rides are considered finished when the bike is returned to a station.  The  
+Citi Bike bikes can be found at hundreds of stations around Manhattan, Brooklyn, Queens, the Bronx, and Jersey City. Using the Citi Bike app, available bikes and their station locations can be found.  In order to use the bike, a rider must have a day pass or an annual membership. A code is used to unlock the bike and start the ride and rides are considered finished when the bike is returned to a station.
 
 
 ## Results
