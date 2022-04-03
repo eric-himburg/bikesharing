@@ -25,6 +25,10 @@ The fourth visualization is a heat map which shows the amount of rides which occ
 
 ![density of rides broken down by hour and day of the week and sorted by gender](screenshots/citibike4.png)
 
+The fifth visualization breaks down the number of riders per day and separates them by subscriber status and also gender.  From it we learn that most of the individuals using the bikes are subscribers.  The subscribers use the bikes the most on Thursdays and overall use them more on the weekdays than the weekends.  Short-term customers are more likely to use the bikes on a weekend.    
+
+![density of rides broken down by day, subscriber status and gender](screenshots/citibike5.png)
+
 ## Summary
 From the results above we have learned that in the month of August most of the Citi Bike riders are male subscribers who use the bike during 8am or 5 pm during weekdays and around noon on the weekends.  It is hypothesized that the bikes are used to commute to and from work on weekdays and used recreationally on the weekends.  Additionally, it was found that the amount of bike use was the least on Sundays.
 
