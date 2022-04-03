@@ -17,10 +17,13 @@ The second visualization shown below displays the number of bikes versus trip du
 
 ![visualization of bike trips versus duration broken down by gender](screenshots/citibike2.png)
 
-The third visualization is a heat map which shows the amount of rides which occur in a given hour on a weekday.  From it we learn that during the week bike rides occur around 8 am or 5 pm and that one the weekends bike rides start around noon.   
+The third visualization is a heat map which shows the amount of rides which occur in a given hour on a given day.  From it we learn that during the week bike rides occur around 8 am or 5 pm and that one the weekends bike rides start around noon.
 
-[density of rides broken down by hour and day of the week](screenshots/citibike3.png)
+![density of rides broken down by hour and day of the week](screenshots/citibike3.png)
 
+The fourth visualization is a heat map which shows the amount of rides which occur in a given hour on a given day broken down by gender.  It shows that both men and women use the bikes on weekdays during 8 am/5pm and on weekends at 12 pm.  
+
+![density of rides broken down by hour and day of the week and sorted by gender](screenshots/citibike4.png)
 
 ## Summary
 From the results above we have learned that in the month of August most of the Citi Bike riders are male subscribers who use the bike during 8am or 5 pm during weekdays and around noon on the weekends.  It is hypothesized that the bikes are used to commute to and from work on weekdays and used recreationally on the weekends.  Additionally, it was found that the amount of bike use was the least on Sundays.
