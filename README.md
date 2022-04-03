@@ -4,8 +4,8 @@ Data aquired from Citi Bike New York was analysed for use as a model in the crea
 
 [link to NY Citi Bike August 2019 Analysis dashboard](https://public.tableau.com/app/profile/eric.himburg/viz/NYCitiBikeAnalysis_16490108119270/NYCitiBikeAnalysis)
 
-## How Citibike Works in New York
-Using a Citi Bike app Pick up a bike at one of hundreds of stations around Manhattan, Brooklyn, Queens, the Bronx, and Jersey City. See bike availability on the Station Map or mobile app.  Take as many short rides as you want while your pass is active. Day Passes include unlimited 30-min rides and Annual Memberships include unlimited 45-min rides on a classic Citi Bike.  End a ride by returning your bike to any station. Slide your bike firmly into an empty dock and wait for the green light to make sure it's locked.
+## How Citi Bike Works in New York
+Citi Bike bikes can be found at hundreds of stations around Manhattan, Brooklyn, Queens, the Bronx, and Jersey City. Using the Citi Bike app, available bikes and their station locations can be found.  In order to use the bike, a rider must have a day pass or an annual membership. A code is used to unlock the bike and start the ride and rides are considered finished when the bike is returned to a station.  The  
 
 
 ## Results
