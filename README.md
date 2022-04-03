@@ -11,20 +11,15 @@ Citi Bike bikes can be found at hundreds of stations around Manhattan, Brooklyn,
 ## Results
 The first visualization in our Tableau story can be seen below and displays the number of bikes versus trip duration.  From the peak of the graph we learn that most bike trips last about 5 minutes long.  The number of bikes versus trip duration also shows that there are very few rides that ever last longer than 1 hour.  
 
-![screenshot of](screenshots/citibike1.png)
+![visualization of number of bikes versus trip duration](screenshots/citibike1.png)
 
 The second visualization shown below displays the number of bikes versus trip duration separated by gender.  It clearly indicates that the majority of bike riders are male and that men are more than 3 times as likely to be the riders versus women.  
 
-![screenshot of](screenshots/citibike2.png)
+![visualization of bike trips versus duration broken down by gender](screenshots/citibike2.png)
 
 The third visualization is a heat map which shows the amount of rides which occur in a given hour on a weekday.  From it we learn that during the week bike rides occur around 8 am or 5 pm and that one the weekends bike rides start around noon.   
 
-[screenshot of](screenshots/citibike3.png)
-
-
-
-
-
+[density of rides broken down by hour and day of the week](screenshots/citibike3.png)
 
 
 ## Summary
