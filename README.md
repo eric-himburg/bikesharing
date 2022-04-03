@@ -29,6 +29,14 @@ The fifth visualization breaks down the number of riders per day and separates t
 
 ![density of rides broken down by day, subscriber status and gender](screenshots/citibike5.png)
 
+The sixth visualization is a geographical bubble map which shows a count of the number of rides in August.  From this it can be seen that bike rides are more likely in certain boroughs of New York. In particular, ridesharing is popular in Manhattan.        
+
+![geographical bubble map showing the numbers of rides starting in each location](screenshots/citibike6.png)
+
+The seventh visualation is a bar graph of the hourly start time of the bike rides versus the number of rides which occurred.  From this graph we learn that most bike rides start around 5-6 pm and the least amount of bike rides start around 3-4 am.  
+
+![bar graph of number of bikes versus hourly start time](screenshots/citibike7.png)
+
 ## Summary
 From the results above we have learned that in the month of August most of the Citi Bike riders are male subscribers who use the bike during 8am or 5 pm during weekdays and around noon on the weekends.  It is hypothesized that the bikes are used to commute to and from work on weekdays and used recreationally on the weekends.  Additionally, it was found that the amount of bike use was the least on Sundays.
 
